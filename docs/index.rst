@@ -3,34 +3,33 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Buat Nada Dering dengan Situs Text to Speech di Hp Android
+Aplikasi Penting Untuk Android Yang Sudah Di Root
 ==================
+Setelah perangkat smartphone android sudah mengalami root memang akan menunjukan berbagai macam keunggulannya tersendiri, seperti misalnya anda bisa mengakses dan masuk ke dalam sistem file untuk memodifikasi dan juga melakukan kostumisasi terhadap perangkat android. Smartphone android yang telah di root juga akan memiliki daya tahan yang lebih lama pada bagian baterainya, serta memiliki peforma yang meningkat, dengan proses pemuatan untuk aplikasinya yang lebih cepat.
 
-Lewat tulisan ini, kami akan memberikan panduan lengkap bagaimana cara membuat nada dering yang unik dan kerenenggunakan software text to speech alias situs untuk ubah teks menjadi suara Google. Teknik untuk memasang nada dering wa dari suara Google ini biasa disebut juga sebagai sound of text wa yang banyak diulas di halaman ini: https://www.dmo.or.id/sound-of-text-wa/. 
+Berbicara mengenai aplikasi android yang terbaik bagi smartphone anda yang telah di root, ternyata memiliki banyak jenisnya. Memang ada aplikasi yang sesuai untuk smartphone android yang sudah di root, atau aplikasi yang sesuai untuk perangkat smartphone yang belum di root. Nah, bagi anda yang memiliki smartphone dan baru saja mengalami proses rooting, berikut ini adala beberapa kumpulan aplikasi `Google Play Store <https://www.sebuahutas.com/2022/02/download-play-store-terbaru-2022.html>`_ penting untuk smartphone android yang telah di root.
 
-Ada cukup banyak situs yang dapat membuat suara dari teks dengan engine text to speech dari Google Translate. Diantara nama nama platform yang cukup terkenal dianataranya:
+Aplikasi Khusus Untuk Android Yang Sudah Di Root
+================================================
 
-1. Voiceoftext.com 
-2. Soundoftext.com 
-3. Notevibes.com
-4. Botika.online
-5. FreeTTS.com
-6. Voicemaker.in
-7. Fakeyou.com
-8. Uberduck.ai 
-9. Wideo text to speech
-10. Amazon Poly
-11. Balabolka
+1.	Superuser
 
-Tentu masih banyak platform text to speech lainnya yang cukup populer namun tidak bisa kami sebutkan satu persatu pada daftar diatas.
+Memang salah satu kelemahan setelah mengalami proses rooting, smartphone atau tablet android anda akan lebih rentan seputar akses privasi dan juga data yang bocor. Aplikasi android ini akan bekerja pada bagian background yang mana akan mengawasi smartphone android kita, jika akan menginstal aplikasi baru. Selain itu, aplikasi ini juga sangat bermanfaat karena sifatnya sebagai pengaman, anda dapat melakukan block aplikasi ketika ada aplikasi yang tidak resmi terinstall di smarthpone anda.
 
-Cara membuat nada dering wa sendiri sebenarnya tidak sesulit yang dibayangkan. Kamu cukup membuat kata kata yang pas untuk dijadikan nada notifikasi, mengubahnya menjadi suara dalam format mp3 menggunakan situs text to speech,  lalu unduh dan simpan file mp3 sound of text tersebut di folder ringtones.
+2.	ROM Manager
 
-Langkah selanjutnya tinggal memasang nada dering mp3 sound of text tadi sebagai nada pesan notifikasi wa di pengaturan aplikasi Whatsapp. Satu hal baru yang bisa kamu buat dengan teknologi text to speech ini adalah kamu dapat membuat ucapan custom untuk setiap keperluan ataupun event yang berbeda. Sebagai contoh, kamu dapat membuat ucapan suara untuk hari-hari besar seperti:
+Aplikasi ini sangat berguna untuk memeriksa pembaruan yang tersedia, dan memastikan bahwa yang digunakan adalah benar – benar up to date, yang mana aplikasi ini akan bekerja dengan memudahkan melakukan boot dengan cepat kedalam recovery modesehingga kita bisa melkaukan flash terhadap ROM terbaru , atau bisa juga melakukan pengaturan ROM lainnya yang bisa langsung dipasang menggunakan aplikasi ini.
 
-- Ucapan selamat Idul Fitri dengan suara Google
-- Ucapan selamat ulang tahun bahasa Korea dengan Voiceoftext
-- Ucapan selamat tahun baru Islam dengan bahasa Arab di situs Soundoftext.com
-- Ucapan selamat hari kemerdekaan Republik Indonesia
+3.	Xposed Installer (Framework)
 
-Untuk contoh kata-kata ucapan yang keren dan kekinian, kamu dapat melihat contohnya dari situs `Giftcard.co.id <https://giftcard.co.id>`_. Nah itulah tadi ulasan lengkap kami bagaimana cara memulai untuk membuat nada dering sendiri menggunakan situs text to speech yang sedang tren belakangan ini. Selamat mencoba dan semoga bermanfaat buat kamu sobat tekno semua!
+Aplikasi ini berisi seperti halnya modul yang ada pada smartphone anda, dan memang memiliki berbagai macam kemampuan yang bisa anda nikmati seperti bisa dengan mudah dalam melakukan kosumisasi dengan beragam cara yang kesemuaanya bisa dilakukan dengan Xposed Intaller yang bisa anda temui di google playstore.
+
+4.	Greenify
+
+Aplikasi ini berfungsi untuk mengatur dan mengelola konsumsi baterai, yang mana bisa ada minta dan kenakan untuk aplikasi yang sedang berjalan. Selain itu, Greenify merupakan salah satu aplikasi yang bermanfaat, mengingat android merupakan perangkat yang cepat habis masa hidup baterainya, dimana anda bisa melakukan hibernasi aplikasi jika tidak menggunakannya untuk menghemat baterai.
+
+5.	Data Sync
+
+Kegunaan aplikasi ini untuk android adalah memiliki kemampuan yang baik dalam proses sinkronisasi antar smartphone android yang satu dengan lainnya. Misalnya saja anda menggunakan tablet dan juga smartphone, maka anda bisa melakukan sinkronisasi antar dua aplikasi tersebut dimana nantinya anda bisa menggunakan FTP, Wi-Fi hingga menggunakan Cloud Storage.
+
+Demikian beberapa aplikasi android yang penting dan sesuai dengan perangkat smartphone android anda yang telah diroot. Semoga bermanfaat sebagai rekomendasi menarik dari `Osrepublik.com <https://www.osrepublik.com>`_ untuk anda. dan selamat mencoba.
