@@ -33,3 +33,13 @@ Aplikasi ini berfungsi untuk mengatur dan mengelola konsumsi baterai, yang mana 
 Kegunaan aplikasi ini untuk android adalah memiliki kemampuan yang baik dalam proses sinkronisasi antar smartphone android yang satu dengan lainnya. Misalnya saja anda menggunakan tablet dan juga smartphone, maka anda bisa melakukan sinkronisasi antar dua aplikasi tersebut dimana nantinya anda bisa menggunakan FTP, Wi-Fi hingga menggunakan Cloud Storage.
 
 Demikian beberapa aplikasi android yang penting dan sesuai dengan perangkat smartphone android anda yang telah diroot. Semoga bermanfaat sebagai rekomendasi menarik dari `Osrepublik.com <https://www.osrepublik.com>`_ untuk anda. dan selamat mencoba.
+
+********
+Contents
+********
+
+.. toctree::
+   :maxdepth: 2
+
+   style-guide
+   photo-editor/index
