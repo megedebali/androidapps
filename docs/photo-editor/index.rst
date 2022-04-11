@@ -76,5 +76,6 @@ Perlu diingat apabila proses penggabungan foto ini bisa saja mengurangi kualitas
 
 **Sumber referensi**
 
-- Technolati.com: `Cara Mudah Translate Foto <https://www.technolati.com/2022/04/cara-google-translate-inggris-indonesia.html>`_ Thanks
+- Technolati.com: `Cara Mudah Translate Foto <https://www.technolati.com/2022/04/cara-google-translate-inggris-indonesia.html>`_
 - Sebuahutas.com: `Cara Donwload Play Store <https://www.sebuahutas.com//2022/02/download-play-store-terbaru-2022.html>`_
+- Karinov.co.id: `Aplikasi Facebook Lite <https://karinov.co.id/facebook-lite-login-apk-official-download/>`_
