@@ -43,3 +43,4 @@ Contents
 
    style-guide
    photo-editor/index
+   shopee/index
