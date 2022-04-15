@@ -16,7 +16,7 @@ Beberapa fitur terbaru Shopee meliputi:
 -	Shopee Live (siaran langsung)
 -	Shopee Games (mini-game dalam aplikasi)
 -	Shopee Feed (umpan sosial dalam aplikasi yang memungkinkan pengguna membagikan apa yang mereka beli dan jual)
-- Shopee Food (`cara daftar shopee food terbaru<https://www.sebuahutas.com/2022/04/cara-daftar-shopee-food-merchant.html>`_)
+- Shopee Food: `cara daftar shopee food terbaru <https://www.sebuahutas.com/2022/04/cara-daftar-shopee-food-merchant.html>`_
 
 Selain semua integrasi ini, satu keuntungan besar yang dimiliki Shopee adalah kemampuan untuk memanfaatkan data dengan AI canggih mereka untuk mengidentifikasi data penelusuran pengguna, yang memungkinkan merek menggunakan alat bertenaga AI dan AR memberikan pengalaman berbelanja yang berbeda kepada audiens mereka.
 
@@ -44,4 +44,4 @@ Jika disimpulkan, Shopee memiliki beberapa keunggulan dari fiturnya seperti:
 -	Opsi berbagi untuk platform media sosial
 
 Seiring dengan banyaknya pengguna yang menggunakan Shopee, tidak heran ya jika aplikasi terus mengembangkan tampilannya. Seperti yang disebutkan tadi, bahwa Shopee menambahkan banyak fitur yang menyerupai media sosial dengan “Feed dan Live” nya. Jika Anda rindu dengan tampilan Shopee yang dahulu, gunakan saja situs up to down.
-Klik https://shopee-id.id.uptodown.com/android/download dan tekan tombol "Download" maka aplikasi versi lama sudah bisa digunakan.
+Klik **shopee-id.id.uptodown.com/android/download** dan tekan tombol "Download" maka aplikasi versi lama sudah bisa digunakan.
