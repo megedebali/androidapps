@@ -45,3 +45,8 @@ Jika disimpulkan, Shopee memiliki beberapa keunggulan dari fiturnya seperti:
 
 Seiring dengan banyaknya pengguna yang menggunakan Shopee, tidak heran ya jika aplikasi terus mengembangkan tampilannya. Seperti yang disebutkan tadi, bahwa Shopee menambahkan banyak fitur yang menyerupai media sosial dengan “Feed dan Live” nya. Jika Anda rindu dengan tampilan Shopee yang dahulu, gunakan saja situs up to down.
 Klik **shopee-id.id.uptodown.com/android/download** dan tekan tombol "Download" maka aplikasi versi lama sudah bisa digunakan.
+
+Referensi:
+
+- `Cara cek resi J&T <https://www.sebuahutas.com/2022/04/cara-cara-cek-resi-j-express-dari.html>`_
+- `Cek resi Shopee Standard Express <https://www.giftcard.co.id/cek-resi-standard-express-shopee/>`_ 
