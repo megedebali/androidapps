@@ -45,3 +45,4 @@ Contents
    photo-editor/index
    shopee/index
    naruto-senki/index
+   snackvideo/index
